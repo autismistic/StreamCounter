@@ -17,7 +17,7 @@
 ## Installation
 
 ### Precompiled Executable
-1. Download the latest `StreamCounter.exe` from the [Releases](https://github.com/yourusername/StreamCounter/releases) page.
+1. Download the latest `StreamCounter.exe` from the [Releases](https://github.com/autismistic/StreamCounter/releases) page.
 2. Run `StreamCounter.exe` on your Windows machine.
    - Note: You may need to allow the app through Windows Defender or your antivirus software, as it’s an unsigned executable.
 
